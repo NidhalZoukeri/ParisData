@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Affichage de données JSON</title>
+</head>
+<body>
+    <h1>Données JSON récupérées depuis l'API</h1>
+    <div id="data-container">
+        <!-- Les données seront affichées ici -->
+    </div>
+
+    <script>
+        // Exemple de code JavaScript pour récupérer et afficher les données JSON
+        async function fetchData() {
+            try {
+                const response = await fetch('/opendatasoft-data'); // Assurez-vous que le chemin correspond à votre route Express
+                if (!response.ok) {
+                    throw new Error('La requête a échoué avec le statut ' + response.status);
+                }
+                const data = await response.json();
+                const dataContainer = document.getElementById('data-container');
+                // Vous pouvez formater et afficher les données comme vous le souhaitez ici
+                dataContainer.innerHTML = JSON.stringify(data, null, 2);
+            } catch (error) {
+                console.error('Erreur lors de la récupération des données :', error);
+            }
+        }
+
+        // Appelez la fonction pour récupérer les données au chargement de la page
+        fetchData();
+    </script>
+</body>
+</html>

@@ -1,0 +1,271 @@
+Device	S-state	  Status   Sysfs node
+PCI0	  S3	*disabled  no-bus:pci0000:00
+USB	  S1	*disabled
+P2P0	  S3	*disabled  pci:0000:00:11.0
+S1F0	  S3	*enabled   pci:0000:02:00.0
+S2F0	  S3	*disabled  pci:0000:02:01.0
+S3F0	  S3	*disabled  pci:0000:02:02.0
+S4F0	  S3	*enabled   pci:0000:02:03.0
+S5F0	  S3	*disabled
+S6F0	  S3	*disabled
+S7F0	  S3	*disabled
+S8F0	  S3	*disabled
+S9F0	  S3	*disabled
+S10F	  S3	*disabled
+S11F	  S3	*disabled
+S12F	  S3	*disabled
+S13F	  S3	*disabled
+S14F	  S3	*disabled
+S15F	  S3	*disabled
+S16F	  S3	*disabled
+S17F	  S3	*disabled
+S18F	  S3	*disabled
+S19F	  S3	*disabled
+S20F	  S3	*disabled
+S21F	  S3	*disabled
+S22F	  S3	*disabled
+S23F	  S3	*disabled
+S24F	  S3	*disabled
+S25F	  S3	*disabled
+S26F	  S3	*disabled
+S27F	  S3	*disabled
+S28F	  S3	*disabled
+S29F	  S3	*disabled
+S30F	  S3	*disabled
+S31F	  S3	*disabled
+S32F	  S3	*disabled
+P2P1	  S3	*disabled
+S1F0	  S3	*disabled
+S2F0	  S3	*disabled
+S3F0	  S3	*disabled
+S4F0	  S3	*disabled
+S5F0	  S3	*disabled
+S6F0	  S3	*disabled
+S7F0	  S3	*disabled
+S8F0	  S3	*disabled
+S9F0	  S3	*disabled
+S10F	  S3	*disabled
+S11F	  S3	*disabled
+S12F	  S3	*disabled
+S13F	  S3	*disabled
+S14F	  S3	*disabled
+S15F	  S3	*disabled
+S16F	  S3	*disabled
+S17F	  S3	*disabled
+S18F	  S3	*disabled
+S19F	  S3	*disabled
+S20F	  S3	*disabled
+S21F	  S3	*disabled
+S22F	  S3	*disabled
+S23F	  S3	*disabled
+S24F	  S3	*disabled
+S25F	  S3	*disabled
+S26F	  S3	*disabled
+S27F	  S3	*disabled
+S28F	  S3	*disabled
+S29F	  S3	*disabled
+S30F	  S3	*disabled
+S31F	  S3	*disabled
+S32F	  S3	*disabled
+P2P2	  S3	*disabled
+S1F0	  S3	*disabled
+S2F0	  S3	*disabled
+S3F0	  S3	*disabled
+S4F0	  S3	*disabled
+S5F0	  S3	*disabled
+S6F0	  S3	*disabled
+S7F0	  S3	*disabled
+S8F0	  S3	*disabled
+S9F0	  S3	*disabled
+S10F	  S3	*disabled
+S11F	  S3	*disabled
+S12F	  S3	*disabled
+S13F	  S3	*disabled
+S14F	  S3	*disabled
+S15F	  S3	*disabled
+S16F	  S3	*disabled
+S17F	  S3	*disabled
+S18F	  S3	*disabled
+S19F	  S3	*disabled
+S20F	  S3	*disabled
+S21F	  S3	*disabled
+S22F	  S3	*disabled
+S23F	  S3	*disabled
+S24F	  S3	*disabled
+S25F	  S3	*disabled
+S26F	  S3	*disabled
+S27F	  S3	*disabled
+S28F	  S3	*disabled
+S29F	  S3	*disabled
+S30F	  S3	*disabled
+S31F	  S3	*disabled
+S32F	  S3	*disabled
+P2P3	  S3	*disabled
+S1F0	  S3	*disabled
+S2F0	  S3	*disabled
+S3F0	  S3	*disabled
+S4F0	  S3	*disabled
+S5F0	  S3	*disabled
+S6F0	  S3	*disabled
+S7F0	  S3	*disabled
+S8F0	  S3	*disabled
+S9F0	  S3	*disabled
+S10F	  S3	*disabled
+S11F	  S3	*disabled
+S12F	  S3	*disabled
+S13F	  S3	*disabled
+S14F	  S3	*disabled
+S15F	  S3	*disabled
+S16F	  S3	*disabled
+S17F	  S3	*disabled
+S18F	  S3	*disabled
+S19F	  S3	*disabled
+S20F	  S3	*disabled
+S21F	  S3	*disabled
+S22F	  S3	*disabled
+S23F	  S3	*disabled
+S24F	  S3	*disabled
+S25F	  S3	*disabled
+S26F	  S3	*disabled
+S27F	  S3	*disabled
+S28F	  S3	*disabled
+S29F	  S3	*disabled
+S30F	  S3	*disabled
+S31F	  S3	*disabled
+S32F	  S3	*disabled
+PE40	  S3	*disabled  pci:0000:00:15.0
+S1F0	  S3	*disabled
+PE50	  S3	*disabled  pci:0000:00:16.0
+S1F0	  S3	*disabled
+PE60	  S3	*disabled  pci:0000:00:17.0
+S1F0	  S3	*disabled
+PE70	  S3	*disabled  pci:0000:00:18.0
+S1F0	  S3	*disabled
+PE80	  S3	*disabled
+S1F0	  S3	*disabled
+PE90	  S3	*disabled
+S1F0	  S3	*disabled
+PEA0	  S3	*disabled
+S1F0	  S3	*disabled
+PEB0	  S3	*disabled
+S1F0	  S3	*disabled
+PEC0	  S3	*disabled
+S1F0	  S3	*disabled
+PED0	  S3	*disabled
+S1F0	  S3	*disabled
+PEE0	  S3	*disabled
+S1F0	  S3	*disabled
+PE41	  S3	*disabled  pci:0000:00:15.1
+S1F0	  S3	*disabled
+PE42	  S3	*disabled  pci:0000:00:15.2
+S1F0	  S3	*disabled
+PE43	  S3	*disabled  pci:0000:00:15.3
+S1F0	  S3	*disabled
+PE44	  S3	*disabled  pci:0000:00:15.4
+S1F0	  S3	*disabled
+PE45	  S3	*disabled  pci:0000:00:15.5
+S1F0	  S3	*disabled
+PE46	  S3	*disabled  pci:0000:00:15.6
+S1F0	  S3	*disabled
+PE47	  S3	*disabled  pci:0000:00:15.7
+S1F0	  S3	*disabled
+PE51	  S3	*disabled  pci:0000:00:16.1
+S1F0	  S3	*disabled
+PE52	  S3	*disabled  pci:0000:00:16.2
+S1F0	  S3	*disabled
+PE53	  S3	*disabled  pci:0000:00:16.3
+S1F0	  S3	*disabled
+PE54	  S3	*disabled  pci:0000:00:16.4
+S1F0	  S3	*disabled
+PE55	  S3	*disabled  pci:0000:00:16.5
+S1F0	  S3	*disabled
+PE56	  S3	*disabled  pci:0000:00:16.6
+S1F0	  S3	*disabled
+PE57	  S3	*disabled  pci:0000:00:16.7
+S1F0	  S3	*disabled
+PE61	  S3	*disabled  pci:0000:00:17.1
+S1F0	  S3	*disabled
+PE62	  S3	*disabled  pci:0000:00:17.2
+S1F0	  S3	*disabled
+PE63	  S3	*disabled  pci:0000:00:17.3
+S1F0	  S3	*disabled
+PE64	  S3	*disabled  pci:0000:00:17.4
+S1F0	  S3	*disabled
+PE65	  S3	*disabled  pci:0000:00:17.5
+S1F0	  S3	*disabled
+PE66	  S3	*disabled  pci:0000:00:17.6
+S1F0	  S3	*disabled
+PE67	  S3	*disabled  pci:0000:00:17.7
+S1F0	  S3	*disabled
+PE71	  S3	*disabled  pci:0000:00:18.1
+S1F0	  S3	*disabled
+PE72	  S3	*disabled  pci:0000:00:18.2
+S1F0	  S3	*disabled
+PE73	  S3	*disabled  pci:0000:00:18.3
+S1F0	  S3	*disabled
+PE74	  S3	*disabled  pci:0000:00:18.4
+S1F0	  S3	*disabled
+PE75	  S3	*disabled  pci:0000:00:18.5
+S1F0	  S3	*disabled
+PE76	  S3	*disabled  pci:0000:00:18.6
+S1F0	  S3	*disabled
+PE77	  S3	*disabled  pci:0000:00:18.7
+S1F0	  S3	*disabled
+PE81	  S3	*disabled
+S1F0	  S3	*disabled
+PE82	  S3	*disabled
+S1F0	  S3	*disabled
+PE83	  S3	*disabled
+S1F0	  S3	*disabled
+PE84	  S3	*disabled
+S1F0	  S3	*disabled
+PE85	  S3	*disabled
+S1F0	  S3	*disabled
+PE86	  S3	*disabled
+S1F0	  S3	*disabled
+PE87	  S3	*disabled
+S1F0	  S3	*disabled
+PE91	  S3	*disabled
+S1F0	  S3	*disabled
+PE92	  S3	*disabled
+S1F0	  S3	*disabled
+PE93	  S3	*disabled
+S1F0	  S3	*disabled
+PE94	  S3	*disabled
+S1F0	  S3	*disabled
+PE95	  S3	*disabled
+S1F0	  S3	*disabled
+PE96	  S3	*disabled
+S1F0	  S3	*disabled
+PE97	  S3	*disabled
+S1F0	  S3	*disabled
+PEA1	  S3	*disabled
+S1F0	  S3	*disabled
+PEA2	  S3	*disabled
+S1F0	  S3	*disabled
+PEA3	  S3	*disabled
+S1F0	  S3	*disabled
+PEA4	  S3	*disabled
+S1F0	  S3	*disabled
+PEA5	  S3	*disabled
+S1F0	  S3	*disabled
+PEA6	  S3	*disabled
+S1F0	  S3	*disabled
+PEA7	  S3	*disabled
+S1F0	  S3	*disabled
+PEB1	  S3	*disabled
+S1F0	  S3	*disabled
+PEB2	  S3	*disabled
+S1F0	  S3	*disabled
+PEB3	  S3	*disabled
+S1F0	  S3	*disabled
+PEB4	  S3	*disabled
+S1F0	  S3	*disabled
+PEB5	  S3	*disabled
+S1F0	  S3	*disabled
+PEB6	  S3	*disabled
+S1F0	  S3	*disabled
+PEB7	  S3	*disabled
+S1F0	  S3	*disabled
+SLPB	  S4	*disabled
+LID	  S4	*disabled
